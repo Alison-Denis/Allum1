@@ -20,5 +20,5 @@ En changeant la deuxième variable du code, vous pouvez choisir de laisser la ma
 Remplacez la valeur de *$turn* par **FALSE** pour laisser l'ordinateur commencer la partie. 
 Par défaut, `$turn = TRUE`.
   
-    
+***
 # Amusez-vous bien :)
