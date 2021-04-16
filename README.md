@@ -15,7 +15,7 @@ Appuyez maintenant sur la touche ENTRÉE pour commencer la partie !
 + Le nombre d'allumettes en jeu peut être modifié en changeant la première variable du code.  
 Par défaut, `$matches = 11`.
 
-+ La commencement de la partie peut également être modifié.  
++ Le commencement de la partie peut également être modifié.  
 En changeant la deuxième variable du code, vous pouvez choisir de laisser la main à l'ordinateur au lieu d'ôter vos allumettes en premier.  
 Remplacez la valeur de `$turn` par **FALSE** pour laisser l'ordinateur commencer la partie.  
 Par défaut, `$turn = TRUE`.
