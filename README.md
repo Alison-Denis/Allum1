@@ -17,7 +17,7 @@ Par défaut, `$matches = 11`.
 
 + La commencement de la partie peut également être modifié.  
 En changeant la deuxième variable du code, vous pouvez choisir de laisser la main à l'ordinateur au lieu d'ôter vos allumettes en premier.  
-Remplacez la valeur de *$turn* par **FALSE** pour laisser l'ordinateur commencer la partie.  
+Remplacez la valeur de `$turn` par **FALSE** pour laisser l'ordinateur commencer la partie.  
 Par défaut, `$turn = TRUE`.
   
 ***
